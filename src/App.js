@@ -12,7 +12,7 @@ const App = () => {
       }
   return (
     <div className='box1'>
-      <h1> Random Number </h1>
+      <h3> Random Number </h3>
       
       <h3>{data}</h3>
       <button type='submit' onClick={clicked} >RandomNum</button>
