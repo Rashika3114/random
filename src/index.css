@@ -9,13 +9,18 @@ body{
   background: burlywood;
   display: flex;
   justify-content: center;
-  margin-top: 10%;
+  
+  margin: 10%;
+  
 }
 .box1{
   
   width: 400px;
   height: 300px;
   background: sandybrown;
+ 
+  
+  
   
  
   
